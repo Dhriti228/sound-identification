@@ -1,0 +1,32 @@
+body{
+    font-family:'Oswald', sans-serif;
+    background-color:darksalmon;
+}
+.header_div{
+    background-color: white;
+    color: tomato;
+}
+.header_div p{
+    font-family: 'Courier New', Courier, monospace;
+    color: tomato;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: thistle;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(173, 83, 173);
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px gray;
+}
